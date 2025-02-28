@@ -1,0 +1,4 @@
+baseURL = 'https://migibert.github.io/'
+languageCode = 'en-us'
+title = 'Mikael Gibert Homepage'
+theme = 'PaperMod'
