@@ -2,3 +2,60 @@ baseURL = 'https://migibert.github.io/'
 languageCode = 'en-us'
 title = 'Mikaël Gibert'
 theme = 'PaperMod'
+showSearch = true
+description = 'Exploration of System Thinking and Theory of Constraints'
+
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "search/"
+weight = 10
+
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 20
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 30
+
+[params]
+ShowShareButtons = true
+ShareButtons = ['linkedin', 'x', 'facebook', 'reddit']
+
+[params.homeInfoParams]
+Title = "Mikaël Gibert"
+Content = """
+  I'm an engineer passionate about DevOps, System Design, and Flow.
+
+  Inspired by The Phoenix Project, I love exploring constraints, causality, and efficiency to create better systems... and a better world!
+
+  Outside of tech, I enjoy gardening, martial arts, guitar, cooking, and writing. Let's connect!
+"""
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/migibert"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/mikael-gibert/"
+
+[[params.socialIcons]]
+  name = "medium"
+  url = "https://medium.com/@mikael.gibert"
+
+[[params.socialIcons]]
+  name = "stackoverflow"
+  url = "https://stackoverflow.com/users/6084892/mikael-gibert"
+
+[[params.socialIcons]]
+  name = "x"
+  url = "https://x.com/migibert"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
