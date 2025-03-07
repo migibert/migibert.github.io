@@ -35,13 +35,13 @@ A classic example is the closed guard. The guard player applies a constraint by 
 
 Examining BJJ through the Theory of Constraints presents an intriguing way to analyze positional control, leverage, and adaptability. Some potential areas of focus include:
 
-1. **Identifying Key Constraints** – Understanding which constraints are most limiting in a given exchange can provide insight into positional dynamics. Is an opponent’s frame preventing movement? Is their posture allowing them to escape?
+1. **Identifying Key Constraints**: Understanding which constraints are most limiting in a given exchange can provide insight into positional dynamics. Is an opponent’s frame preventing movement? Is their posture allowing them to escape?
 
-2. **Noticing Patterns** – Since constraints influence movement, observing how they create predictable reactions may reveal strategic openings. If an opponent relies heavily on framing, breaking the frame might significantly alter the situation.
+2. **Noticing Patterns**: Since constraints influence movement, observing how they create predictable reactions may reveal strategic openings. If an opponent relies heavily on framing, breaking the frame might significantly alter the situation.
 
-3. **Recognizing Trade-offs** – Every constraint imposed also affects the person applying it. Reflecting on potential vulnerabilities could lead to better decision-making in different scenarios.
+3. **Recognizing Trade-offs**: Every constraint imposed also affects the person applying it. Reflecting on potential vulnerabilities could lead to better decision-making in different scenarios.
 
-4. **Adapting Dynamically** – Since every constraint creates a reaction, the ability to readjust and shift based on an opponent’s response seems to be an important part of BJJ.
+4. **Adapting Dynamically**: Since every constraint creates a reaction, the ability to readjust and shift based on an opponent’s response seems to be an important part of BJJ.
 
 ### Conclusion
 
