@@ -1,7 +1,7 @@
 +++
 title = 'Applying the Theory of Constraints to Brazilian Jiu-Jitsu'
 description = 'Exploring Brazilian Jiu-Jitsu through the Theory of Constraints: How physical limitations, positional control, and dynamic trade-offs shape the flow of a match. Learn how BJJ practitioners impose and relieve constraints while optimizing their endurance, strength, and flexibility'
-date = 2025-03-05
+date = 2025-02-21
 draft = false
 categories = ['theory of constraints']
 tags = ['sports']
