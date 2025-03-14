@@ -1,15 +1,13 @@
 +++
 title = 'Optimizing Wedding Seating with Constraint Programming'
 description = 'Planning a wedding seating chart can be stressful, balancing family ties, friendships, and conflicts. This post explores how Constraint Programming (CP) and Google OR-Tools can optimize wedding seating arrangements by maximizing affinities and minimizing conflicts. Learn how computational problem-solving can take the guesswork out of event planning!'
-date = 2025-03-14
+date = 2025-03-21
 draft = false
 categories = ['theory of constraints']
 tags = ['csp', 'software engineering']
 +++
 
-# 
-
-## The Challenge of Wedding Seating Arrangements
+## Introduction
 
 Planning a wedding involves many logistical challenges, but one of the most delicate tasks is seating arrangements. A wedding is a mix of family members, lifelong friends, and work colleagues, each with their own histories, relationships, and preferences. Some guests want to sit together, others should be kept apart, and family members often have priority seating near the married couple.
 
@@ -37,7 +35,7 @@ A well-designed seating arrangement should balance social dynamics while respect
 
 ## How Constraint Programming Helps
 
-Constraint Programming (CP) is a technique used to solve combinatorial problems where multiple constraints interact. Instead of trying every possible combination manually, we define rules, and the solver finds the best arrangement automatically. 
+Constraint Programming (CP) is a technique used to solve combinatorial problems where multiple constraints interact. Instead of trying every possible combination manually, we define rules, and the solver finds the best arrangement automatically.
 
 We use **Google OR-Tools**, a powerful open-source solver, to:
 1. **Define Variables**: Each guest is assigned a table.
