@@ -1,6 +1,6 @@
 baseURL = 'https://migibert.github.io/'
 languageCode = 'en-us'
-title = 'Mikaël Gibert'
+title = "Mikaël Gibert's personal space"
 theme = 'PaperMod'
 showSearch = true
 description = 'Exploration of System Thinking and Theory of Constraints'
