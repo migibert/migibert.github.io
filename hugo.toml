@@ -1,34 +1,41 @@
 baseURL = 'https://migibert.github.io/'
 languageCode = 'en-us'
-title = "Mikaël Gibert's personal space"
+title = "Mikaël Gibert"
 theme = 'PaperMod'
 showSearch = true
-description = 'Exploration of System Thinking and Theory of Constraints'
+description = "Mikaël Gibert's personal space, let's explore System Thinking and Theory of Constraints!"
 
 [[menu.main]]
-identifier = "search"
-name = "Search"
-url = "search/"
+identifier = 'distributed-systems'
+name = 'Distributed Systems'
+url = '/categories/distributed-systems/'
 weight = 10
 
 [[menu.main]]
-identifier = "categories"
-name = "Categories"
-url = "/categories/"
+identifier = 'management'
+name = 'Management'
+url = '/categories/management/'
 weight = 20
 
 [[menu.main]]
-identifier = "tags"
-name = "Tags"
-url = "/tags/"
+identifier = 'toc'
+name = 'Theory of Constraints'
+url = '/categories/theory-of-constraints/'
 weight = 30
+
+[[menu.main]]
+identifier = "search"
+name = ""
+url = "search/"
+weight = 100
+pre = '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><circle cx="10" cy="10" r="7" fill="none" stroke="currentColor" stroke-width="2"/><line x1="15.5" y1="15.5" x2="22" y2="22" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>'
 
 [params]
 ShowShareButtons = true
 ShareButtons = ['linkedin', 'x', 'facebook', 'reddit']
 
 [params.homeInfoParams]
-Title = "Mikaël Gibert"
+Title = "Welcome!"
 Content = """
   I'm an engineer passionate about DevOps, System Design, and Flow.
 

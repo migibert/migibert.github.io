@@ -3,8 +3,8 @@ title = 'ODR: Decision-making made simple'
 description = 'Discover how the Organization Decision Record (ODR) framework simplifies complex decision-making by structuring context, constraints, and options. Learn a practical approach to documenting and streamlining organizational decisions effectively.'
 date = 2023-03-28
 draft = false
-categories = ['theory of constraints']
-tags = ['management', 'odr']
+categories = ['theory of constraints', 'management']
+tags = ['decision-making']
 +++
 
 ## Introduction
