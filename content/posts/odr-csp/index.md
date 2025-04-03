@@ -3,8 +3,8 @@ title = 'From ODR to CSP: Optimizing Decision-Making with Timefold'
 description = 'Learn how to optimize decision-making by transforming an Organization Decision Record (ODR) into a Constraint Satisfaction Problem (CSP) using Timefold. This guide walks through modeling constraints, implementing a solver, and automating complex team assignments with AI-driven optimization.'
 date = 2025-02-14
 draft = false
-categories = ['theory of constraints', 'management']
-tags = ['csp', 'software engineering', 'decision-making']
+categories = ['theory of constraints', 'management', 'software engineering']
+tags = ['csp', 'decision-making']
 +++
 
 ## Introduction

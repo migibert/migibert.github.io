@@ -1,10 +1,10 @@
 +++
 title = 'Optimizing Wedding Seating with Constraint Programming'
 description = 'Planning a wedding seating chart can be stressful, balancing family ties, friendships, and conflicts. This post explores how Constraint Programming (CP) and Google OR-Tools can optimize wedding seating arrangements by maximizing affinities and minimizing conflicts. Learn how computational problem-solving can take the guesswork out of event planning!'
-date = 2025-03-21
+date = 2025-03-28
 draft = false
-categories = ['theory of constraints']
-tags = ['csp', 'software engineering']
+categories = ['theory of constraints', 'software engineering']
+tags = ['csp']
 +++
 
 ## Introduction

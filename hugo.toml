@@ -24,6 +24,12 @@ url = '/categories/theory-of-constraints/'
 weight = 30
 
 [[menu.main]]
+identifier = 'se'
+name = 'Software Engineering'
+url = '/categories/software-engineering/'
+weight = 40
+
+[[menu.main]]
 identifier = "search"
 name = ""
 url = "search/"
