@@ -3,7 +3,7 @@ title = 'The Systemic Constraints of Humanity'
 description = 'Explore global governance through the lens of distributed systems! This article breaks down how nations, economies, and institutions function like interconnected networks, drawing parallels to computing concepts like master-slave architecture, federated systems, and single sources of truth. Learn how self-sufficiency, global coordination, and systemic interdependencies shape our world—and what we can do to optimize it'
 date = 2025-03-21
 draft = false
-categories = ['theory of constraints', 'distributed systems']
+categories = ['distributed systems']
 tags = ['politics']
 +++
 
